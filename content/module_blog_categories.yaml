@@ -1,0 +1,115 @@
+
+  - id: "21af-f02c-6727"
+    web:
+      metaDescription: ""
+      metaTitle: "Photography"
+      metaLinkText: "Photography"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 117
+      listed: true
+    data:
+      category_content: "Ecommerce"
+      category_link: "#"
+  - id: "5395-47d6-1431"
+    web:
+      metaDescription: ""
+      metaTitle: "Health and fitness"
+      metaLinkText: "Health and fitness"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 116
+      listed: true
+    data:
+      category_content: "Health and fitness"
+      category_link: "#"
+  - id: "c511-3942-00c5"
+    web:
+      metaDescription: ""
+      metaTitle: "DIY craft"
+      metaLinkText: "DIY craft"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 115
+      listed: true
+    data:
+      category_content: "DIY craft"
+      category_link: "#"
+  - id: "0531-8f08-3efc"
+    web:
+      metaDescription: ""
+      metaTitle: "Beauty and Fashion"
+      metaLinkText: "Beauty and Fashion"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 114
+      listed: true
+    data:
+      category_content: "Beauty and Fashion"
+      category_link: "#"
+  - id: "b8a3-3ac2-cec8"
+    web:
+      metaDescription: ""
+      metaTitle: "Travel"
+      metaLinkText: "Travel"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 113
+      listed: true
+    data:
+      category_content: "Travel"
+      category_link: "#"
+  - id: "ab35-8228-e966"
+    web:
+      metaDescription: ""
+      metaTitle: "Food"
+      metaLinkText: "Food"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      category_content: "Food"
+      category_link: "#"
