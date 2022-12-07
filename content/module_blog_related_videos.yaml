@@ -1,0 +1,58 @@
+
+  - id: "9615-1830-5c4a"
+    web:
+      metaDescription: ""
+      metaTitle: "Venice has been known as \"La Dominante\", \"La Serenissima\", \"Queen of the Adriatic\", \"City of Water\", \"City of Masks\", \"City of Bridges\" and many more!"
+      metaLinkText: "Venice has been known as \"La Dominante\", \"La Serenissima\", \"Queen of the Adriatic\", \"City of Water\", \"City of Masks\", \"City of Bridges\" and many more!"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 123
+      listed: true
+    data:
+      description: "Venice has been known as \"La Dominante\", \"La Serenissima\", \"Queen of the Adriatic\", \"City of Water\", \"City of Masks\", \"City of Bridges\" and many more!"
+      iframe_video: "<iframe class=\"card-img-top\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DsUTZKLMRj8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+  - id: "cb11-5c64-4d60"
+    web:
+      metaDescription: ""
+      metaTitle: "Siargao Philippines is quickly becoming one of the top islands in Asia and it reminds me of Bali before the tourism boom. "
+      metaLinkText: "Siargao Philippines is quickly becoming one of the top islands in Asia and it reminds me of Bali before the tourism boom. "
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 122
+      listed: true
+    data:
+      description: "Siargao Philippines is quickly becoming one of the top islands in Asia and it reminds me of Bali before the tourism boom. "
+      iframe_video: "<iframe class=\"card-img-top\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JttPYJF6SdI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+  - id: "8a7b-9dd4-b3ec"
+    web:
+      metaDescription: ""
+      metaTitle: "Explore with Allison Anderson on her 11 days cruising up the coast of Alaska and her MAGICAL experience."
+      metaLinkText: "Explore with Allison Anderson on her 11 days cruising up the coast of Alaska and her MAGICAL experience."
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 121
+      listed: true
+    data:
+      description: "Explore with Allison Anderson on her 11 days cruising up the coast of Alaska and her MAGICAL experience."
+      iframe_video: "<iframe class=\"card-img-top\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sr284c-q8oY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

@@ -1,0 +1,77 @@
+
+  - id: "308d-088d-9f40"
+    web:
+      metaDescription: ""
+      metaTitle: "https://www.youtube.com/"
+      metaLinkText: "https://www.youtube.com/"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+    data:
+      social_image: "https://dx8z8bb8.media.zestyio.com/youtube.png"
+      social_link: "https://www.youtube.com/"
+  - id: "b24c-8884-7920"
+    web:
+      metaDescription: ""
+      metaTitle: "https://twitter.com/"
+      metaLinkText: "https://twitter.com/"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 126
+      listed: true
+    data:
+      social_image: "https://dx8z8bb8.media.zestyio.com/twitter.png"
+      social_link: "https://twitter.com/"
+  - id: "12a3-e491-1c75"
+    web:
+      metaDescription: ""
+      metaTitle: "https://www.instagram.com/"
+      metaLinkText: "https://www.instagram.com/"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+    data:
+      social_image: "https://dx8z8bb8.media.zestyio.com/ig.png"
+      social_link: "https://www.instagram.com/"
+  - id: "1541-2373-2e35"
+    web:
+      metaDescription: ""
+      metaTitle: "https://www.facebook.com"
+      metaLinkText: "https://www.facebook.com"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+    data:
+      social_image: "https://dx8z8bb8.media.zestyio.com/facebook.png"
+      social_link: "https://www.facebook.com"
